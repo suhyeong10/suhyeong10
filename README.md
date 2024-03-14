@@ -3,5 +3,7 @@
 \
 [![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-child&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/coding-child/github-readme-stats)
 
-## 🖥️ Tech Blog 🖥️
-<img src="https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=github&logoColor=white"/>
+## 🖥️Tech Blog🖥️
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=github&logoColor=white&link=https://pshpulip22.github.io/)](https://pshpulip22.github.io/)
+
+## 📬Contact Me
