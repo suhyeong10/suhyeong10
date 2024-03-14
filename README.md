@@ -7,3 +7,4 @@
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=github&logoColor=white&link=https://pshpulip22.github.io/)](https://pshpulip22.github.io/)
 
 ## 📬Contact Me
+[![gmail](https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pshpulip40@gmail.com)](mailto:pshpulip40@gmail.com)
