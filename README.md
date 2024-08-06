@@ -1,28 +1,44 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Suhyeong's%20GitHub%20👋&fontSize=50)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236D53CF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
-\
-[![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-child&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/coding-child/github-readme-stats)
+<!-- Your title -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=220&section=header&text=안녕👋&fontSize=50&animation=scaleIn)	
 
-## 🖥️Tech Blog
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=github&logoColor=white&link=https://pshpulip22.github.io/)](https://pshpulip22.github.io/)
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
 
-## 🦾Tech Skills
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">  
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/python-FFCA28?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
-    <br>
-</div><br>
-</div>
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## 📬Contact Me
-[![gmail](https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pshpulip40@gmail.com)](mailto:pshpulip40@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/p_tngud_22/)](https://www.instagram.com/p_tngud_22/)
+- 📫 How to reach me:
+    - <a href="https://www.instagram.com/oxqnd_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oxqnd_/"/></a>
+    - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orangemush777@gmail.com)
+
+<!-- Your github readme stats -->
+<p>
+  <a href="https://github.com/oxqnd">
+    <img width="55%" height="170" align="right" alt="oxqnd stats" src="https://github-readme-stats.vercel.app/api?username=oxqnd&show_icons=true&hide_border=true&cache_seconds=1800&langs_count=8" />
+  </a>
+</p>
+
+<!-- Top Languages with hide_border=true and cache invalidation -->
+<a href="https://github.com/oxqnd">
+  <img width="55%" height="259" align="right" alt="oxqnd top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxqnd&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
+</a>
+
+<!-- Languages -->
+### Languages:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,r,javascript,ts&perline=4" />
+</a>
+
+<!-- Frameworks and Libraries -->
+### Frameworks and Libraries:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dotnet,pytorch,flask,fastapi,nodejs,express,nestjs,nextjs&perline=4" />
+</a>
+
+<!-- Tools -->
+### Tools:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rabbitmq,mysql,git,github,ubuntu,cloudflare,docker&perline=4" />
+</a>
+
+<!--![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)-->
