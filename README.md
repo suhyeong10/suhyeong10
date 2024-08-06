@@ -1,5 +1,5 @@
 <!-- Your title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=220&section=header&text=안녕👋&fontSize=50&animation=scaleIn)	
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=220&section=header&text=Welcom Soo's github👋&fontSize=50&animation=scaleIn)	
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
