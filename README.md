@@ -11,7 +11,7 @@
     - <a href="https://www.instagram.com/p_tngud_22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/p_tngud_22/"/></a>
     - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pshpulip40@gmail.com)
 - 📖 Personal Blog:
-    - <a href="https://pshpulip22.github.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://pshpulip22.github.io/"/></a>
+    - <a href="https://pshpulip22.github.io/"><img src="https://img.shields.io/badge/GitBlog-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://pshpulip22.github.io/"/></a>
 
 <!-- Your github readme stats -->
 <p>
