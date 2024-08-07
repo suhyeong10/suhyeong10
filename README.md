@@ -34,7 +34,7 @@
 <!-- Frameworks and Libraries -->
 ### Frameworks and Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask&perline=4" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flask&perline=4" />
 </a>
 
 <!-- Tools -->
