@@ -1,5 +1,6 @@
 <!-- Your title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=220&section=header&text=Welcome%20to%20Soo's%20github%F0%9F%91%8B&fontSize=50&animation=scaleIn)
+![KakaoTalk_20240828_112057237](https://github.com/user-attachments/assets/c2bdd8e5-83d4-4a29-8372-b25a2563d190)
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
