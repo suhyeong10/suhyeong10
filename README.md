@@ -16,13 +16,13 @@
 <!-- Your github readme stats -->
 <p>
   <a href="https://github.com/suhyeong10">
-    <img width="55%" height="170" align="right" alt="Soo's stats" src="https://github-readme-stats.vercel.app/api?username=coding-child&show_icons=true&hide_border=true&cache_seconds=1800&langs_count=8" />
+    <img width="55%" height="170" align="right" alt="Soo's stats" src="https://github-readme-stats.vercel.app/api?username=suhyeong10&show_icons=true&hide_border=true&cache_seconds=1800&langs_count=8" />
   </a>
 </p>
 
 <!-- Top Languages with hide_border=true and cache invalidation -->
 <a href="https://github.com/suhyeong10">
-  <img width="55%" height="259" align="right" alt="Soo's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-child&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
+  <img width="55%" height="259" align="right" alt="Soo's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeong10&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
 </a>
 
 <!-- Languages -->
