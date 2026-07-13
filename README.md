@@ -79,8 +79,12 @@ class Researcher:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhyeong10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=24C6DC&icon_color=24C6DC" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeong10&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=24C6DC" />
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/3-stats.svg" />
+
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/2-most-commit-language.svg" />
+
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/4-productive-time.svg" />
 
 <br/>
 
