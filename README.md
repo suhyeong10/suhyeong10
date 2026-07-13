@@ -18,7 +18,15 @@
 
 <br/>
 
+<!-- Professional -->
+<a href="https://www.linkedin.com/in/suhyeong-park-4346a3287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=rBHtcawAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://suhyeong10.github.io/"><img src="https://img.shields.io/badge/Homepage-24C6DC?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+
+<br/>
+
 <!-- Contact -->
+<a href="mailto:suhyeong.park@aigensciences.com"><img src="https://img.shields.io/badge/Work%20Email-0F0C29?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 <a href="mailto:pshpulip40@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/p_tngud_22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
