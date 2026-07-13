@@ -4,7 +4,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Soo+%F0%9F%91%8B;CS+M.S.%2FPh.D+Integrated+Student+%40+Korea+Univ.;Advised+by+Prof.+Jaewoo+Kang+(DMIS+Lab);AI+Researcher+%40+AIGEN+Sciences;Deep+Learning+%7C+Computer+Vision+%7C+Drug+Discovery)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=820&height=55&lines=Hi+there%2C+I'm+Suhyeong+%F0%9F%91%8B;CS+M.S.%2FPh.D+Integrated+Student+%40+Korea+University;Advised+by+Prof.+Jaewoo+Kang+(DMIS+Lab);AI+Researcher+%40+AIGEN+Sciences;NLP+%7C+RAG+%7C+Representation+Learning)](https://git.io/typing-svg)
 
 <!-- ===================== VISITOR / SOCIAL BADGES ===================== -->
 <img src="https://komarev.com/ghpvc/?username=suhyeong10&label=Profile%20Views&color=24C6DC&style=for-the-badge" alt="profile views" />
@@ -43,7 +43,7 @@ class Researcher:
         self.lab         = "DMIS Lab"
         self.advisor     = "Prof. Jaewoo Kang"
         self.role        = "AI Researcher @ AIGEN Sciences"
-        self.focus       = ["Deep Learning", "Computer Vision", "Drug Discovery"]
+        self.focus       = ["NLP", "RAG", "Representation Learning"]
         self.languages   = ["Python", "C++", "R", "Java"]
         self.currently   = "building models that learn from the real world"
 
@@ -79,23 +79,16 @@ class Researcher:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhyeong10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=24C6DC&icon_color=24C6DC" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeong10&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=24C6DC" />
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/3-stats.svg" />
+
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/2-most-commit-language.svg" />
+
+<img src="https://raw.githubusercontent.com/suhyeong10/suhyeong10/profile-summary-card-output/radical/4-productive-time.svg" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhyeong10&theme=radical&hide_border=true&background=0D1117&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" />
-
-</div>
-
-<br/>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suhyeong10&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
