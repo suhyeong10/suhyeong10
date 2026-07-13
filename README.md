@@ -4,7 +4,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=820&height=55&lines=Hi+there%2C+I'm+Suhyeong+%F0%9F%91%8B;CS+M.S.%2FPh.D+Integrated+Student+%40+Korea+University;Advised+by+Prof.+Jaewoo+Kang+(DMIS+Lab);AI+Researcher+%40+AIGEN+Sciences;NLP+%7C+RAG+%7C+Representation+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=820&height=55&lines=Hi+there%2C+I'm+Suhyeong+%F0%9F%91%8B;CS+M.S.%2FPh.D+Integrated+Student+%40+Korea+University;Advised+by+Prof.+Jaewoo+Kang+(DMIS+Lab);NLP+%7C+RAG+%7C+Representation+Learning)](https://git.io/typing-svg)
 
 <!-- ===================== VISITOR / SOCIAL BADGES ===================== -->
 <img src="https://komarev.com/ghpvc/?username=suhyeong10&label=Profile%20Views&color=24C6DC&style=for-the-badge" alt="profile views" />
@@ -13,8 +13,6 @@
 
 <!-- Affiliations -->
 <a href="https://dmis.korea.ac.kr/"><img src="https://img.shields.io/badge/DMIS%20Lab-Korea%20University-8C1D40?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.korea.ac.kr/"><img src="https://img.shields.io/badge/Korea%20University-8C1D40?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-<a href="https://www.aigensciences.com/"><img src="https://img.shields.io/badge/AIGEN%20Sciences-24C6DC?style=for-the-badge&logoColor=white"/></a>
 
 <br/>
 
@@ -42,7 +40,6 @@ class Researcher:
         self.education   = "CS M.S./Ph.D Integrated Student @ Korea University"
         self.lab         = "DMIS Lab"
         self.advisor     = "Prof. Jaewoo Kang"
-        self.role        = "AI Researcher @ AIGEN Sciences"
         self.focus       = ["NLP", "RAG", "Representation Learning"]
         self.languages   = ["Python", "C++", "R", "Java"]
         self.currently   = "building models that learn from the real world"
