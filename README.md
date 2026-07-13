@@ -1,44 +1,94 @@
-<!-- Your title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=220&section=header&text=Welcome%20to%20Soo's%20github%F0%9F%91%8B&fontSize=50&animation=scaleIn)
+<!-- ===================== HEADER ===================== -->
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24C6DC&height=230&section=header&text=Suhyeong%20Park&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning&descSize=20&descAlignY=60&animation=fadeIn" />
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+<!-- ===================== TYPING ANIMATION ===================== -->
+<div align="center">
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Soo+%F0%9F%91%8B;AI+Researcher+%40+AIGEN+Sciences;Turning+data+into+intelligence;Deep+Learning+%7C+Computer+Vision+%7C+Drug+Discovery)](https://git.io/typing-svg)
 
-- 📫 How to reach me:
-    - <a href="https://www.instagram.com/p_tngud_22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/p_tngud_22/"/></a>
-    - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pshpulip40@gmail.com)
+<!-- ===================== VISITOR / SOCIAL BADGES ===================== -->
+<img src="https://komarev.com/ghpvc/?username=suhyeong10&label=Profile%20Views&color=24C6DC&style=for-the-badge" alt="profile views" />
 
-<!-- Your github readme stats -->
-<!-- <p>
-  <a href="https://github.com/suhyeong10">
-    <img width="55%" height="170" align="right" alt="Soo's stats" src="https://github-readme-stats.vercel.app/api?username=suhyeong10&show_icons=true&hide_border=true&cache_seconds=1800&langs_count=8" />
-  </a>
-</p> -->
+<a href="https://www.instagram.com/p_tngud_22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:pshpulip40@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-<!-- Top Languages with hide_border=true and cache invalidation -->
-<!-- <a href="https://github.com/suhyeong10">
-  <img width="55%" height="259" align="right" alt="Soo's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeong10&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" />
-</a> -->
+</div>
 
-<!-- Languages -->
-### Languages:
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,r,java,matlab,markdown&perline=4" />
-</a>
+<!-- ===================== ABOUT ===================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<!-- Frameworks and Libraries -->
-### Frameworks and Libraries:
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flask&perline=4" />
-</a>
+```python
+class Researcher:
+    def __init__(self):
+        self.name        = "Suhyeong Park"
+        self.role        = "AI Researcher"
+        self.company     = "AIGEN Sciences"
+        self.focus       = ["Deep Learning", "Computer Vision", "Drug Discovery"]
+        self.languages   = ["Python", "C++", "R", "Java"]
+        self.currently   = "building models that learn from the real world"
 
-<!-- Tools -->
-### Tools:
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,mysql,git,github,ubuntu,docker&perline=4" />
-</a>
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something intelligent! 🚀")
+```
 
-<!--![snake gif](https://github.com/oxqnd/oxqnd/blob/output/github-contribution-grid-snake.svg)-->
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🧠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,cs,r,java,matlab,markdown&perline=8" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flask&perline=8" />
+
+**Tools & Environments**
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,mysql,git,github,ubuntu,docker&perline=8" />
+
+</div>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhyeong10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=24C6DC&icon_color=24C6DC" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeong10&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=24C6DC" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhyeong10&theme=radical&hide_border=true&background=0D1117&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" />
+
+</div>
+
+<br/>
+
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suhyeong10&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+<br/>
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/suhyeong10/suhyeong10/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:24C6DC,50:302B63,100:0F0C29&height=120&section=footer" />
