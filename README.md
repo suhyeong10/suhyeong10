@@ -1,16 +1,26 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24C6DC&height=230&section=header&text=Suhyeong%20Park&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning&descSize=20&descAlignY=60&animation=fadeIn" />
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24C6DC&height=230&section=header&text=Suhyeong%20Park&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20M.S.%2FPh.D%20Integrated%20Student%20%40%20Korea%20University&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Soo+%F0%9F%91%8B;AI+Researcher+%40+AIGEN+Sciences;Turning+data+into+intelligence;Deep+Learning+%7C+Computer+Vision+%7C+Drug+Discovery)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Soo+%F0%9F%91%8B;CS+M.S.%2FPh.D+Integrated+Student+%40+Korea+Univ.;Advised+by+Prof.+Jaewoo+Kang+(DMIS+Lab);AI+Researcher+%40+AIGEN+Sciences;Deep+Learning+%7C+Computer+Vision+%7C+Drug+Discovery)](https://git.io/typing-svg)
 
 <!-- ===================== VISITOR / SOCIAL BADGES ===================== -->
 <img src="https://komarev.com/ghpvc/?username=suhyeong10&label=Profile%20Views&color=24C6DC&style=for-the-badge" alt="profile views" />
 
-<a href="https://www.instagram.com/p_tngud_22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<br/><br/>
+
+<!-- Affiliations -->
+<a href="https://dmis.korea.ac.kr/"><img src="https://img.shields.io/badge/DMIS%20Lab-Korea%20University-8C1D40?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.korea.ac.kr/"><img src="https://img.shields.io/badge/Korea%20University-8C1D40?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://www.aigensciences.com/"><img src="https://img.shields.io/badge/AIGEN%20Sciences-24C6DC?style=for-the-badge&logoColor=white"/></a>
+
+<br/>
+
+<!-- Contact -->
 <a href="mailto:pshpulip40@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/p_tngud_22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 </div>
 
@@ -21,8 +31,10 @@
 class Researcher:
     def __init__(self):
         self.name        = "Suhyeong Park"
-        self.role        = "AI Researcher"
-        self.company     = "AIGEN Sciences"
+        self.education   = "CS M.S./Ph.D Integrated Student @ Korea University"
+        self.lab         = "DMIS Lab"
+        self.advisor     = "Prof. Jaewoo Kang"
+        self.role        = "AI Researcher @ AIGEN Sciences"
         self.focus       = ["Deep Learning", "Computer Vision", "Drug Discovery"]
         self.languages   = ["Python", "C++", "R", "Java"]
         self.currently   = "building models that learn from the real world"
