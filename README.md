@@ -4,7 +4,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=820&height=55&lines=Hi+there%2C+I'm+Soo+%F0%9F%91%8B;CS+M.S.%2FPh.D+Integrated+Student+%40+Korea+University;Advised+by+Prof.+Jaewoo+Kang+(DMIS+Lab);AI+Researcher+%40+AIGEN+Sciences;NLP+%7C+RAG+%7C+Representation+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=820&height=55&lines=Hi+there%2C+I'm+Suhyeong+%F0%9F%91%8B;CS+M.S.%2FPh.D+Integrated+Student+%40+Korea+University;Advised+by+Prof.+Jaewoo+Kang+(DMIS+Lab);AI+Researcher+%40+AIGEN+Sciences;NLP+%7C+RAG+%7C+Representation+Learning)](https://git.io/typing-svg)
 
 <!-- ===================== VISITOR / SOCIAL BADGES ===================== -->
 <img src="https://komarev.com/ghpvc/?username=suhyeong10&label=Profile%20Views&color=24C6DC&style=for-the-badge" alt="profile views" />
