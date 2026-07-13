@@ -13,8 +13,6 @@
 
 <!-- Affiliations -->
 <a href="https://dmis.korea.ac.kr/"><img src="https://img.shields.io/badge/DMIS%20Lab-Korea%20University-8C1D40?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.korea.ac.kr/"><img src="https://img.shields.io/badge/Korea%20University-8C1D40?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-<a href="https://www.aigensciences.com/"><img src="https://img.shields.io/badge/AIGEN%20Sciences-24C6DC?style=for-the-badge&logoColor=white"/></a>
 
 <br/>
 
