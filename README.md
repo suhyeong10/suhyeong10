@@ -40,7 +40,6 @@ class Researcher:
         self.education   = "CS M.S./Ph.D Integrated Student @ Korea University"
         self.lab         = "DMIS Lab"
         self.advisor     = "Prof. Jaewoo Kang"
-        self.role        = "AI Researcher @ AIGEN Sciences"
         self.focus       = ["NLP", "RAG", "Representation Learning"]
         self.languages   = ["Python", "C++", "R", "Java"]
         self.currently   = "building models that learn from the real world"
